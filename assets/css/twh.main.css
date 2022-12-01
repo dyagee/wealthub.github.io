@@ -2984,7 +2984,7 @@
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
+			vertical-align:middle;
 			width: 5em;
 		}
 
@@ -3144,7 +3144,7 @@ input[type="submit"]#butt:active {
 				background-color: #7CFC00;
 			}
 	
-}
+
 .post {
 	    background-color:#f9f9f9;
 		border-radius:0.3em;
@@ -3301,7 +3301,7 @@ form #log_form input,label {
     z-index: 1000;
     position: absolute;
     width: 520px;
-	height:320px
+	height:320px;
     text-align: center;
     opacity: 0.6;
     animation: titleAnimation 100000000000s linear infinite ; 
@@ -3342,7 +3342,7 @@ form #log_form input,label {
 		background-repeat: no-repeat;
 		text-align: center;
 		border-top: 0.5em solid #7CFC00;
-		//background-color:#7CFC00;
+		/*background-color:#7CFC00;*/
 	}
 	
 
